@@ -1,6 +1,8 @@
-#  AI and Emerging Technologies
+# Introduction to Artificial Intelligence
 
 <details markdown="1"> 
+
+<summary><h2>  AI and Emerging Technologies  </h2></summary>
 
 ## What are emerging technologies and how does AI play a role in ?
 
