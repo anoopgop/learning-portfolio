@@ -1,5 +1,7 @@
 #  AI and Emerging Technologies
 
+<details markdown="1"> 
+
 ## What are emerging technologies and how does AI play a role in ?
 
 Emerging technologies are those that are currently developing or will be developed over the next few years, and they hold the potential to substantially alter the way we live and work. Some examples of emerging technologies include:
@@ -109,3 +111,5 @@ Computer Vision enables IoT devices to interpret and understand visual informati
 Reinforcement Learning algorithms learn by interacting with the environment and receiving feedback. This type of AI is used in IoT for optimizing resource allocation and managing dynamic systems.
 
 These types of AI enhance the capabilities of IoT, making devices smarter, more efficient, and capable of providing personalized experiences.
+
+</details>
