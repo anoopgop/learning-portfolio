@@ -116,13 +116,16 @@ These types of AI enhance the capabilities of IoT, making devices smarter, more 
 
 # Machine Learning I
 
-<details><summary><h2>  Differents steps of Machine Learning </h2></summary>
+details markdown="2"><summary><h2>  Differents steps of Machine Learning </h2></summary>
 
 ## 7 Steps of Machine Learning 
 
 **1. Data Collection**
+
 - Gather the raw data required for your problem.
+  
 - Data can come from databases, APIs, sensors, web scraping, or other sources.
+  
 - Ensure the data is relevant, sufficient, and representative of the problem you're solving.
 
 **2. Data Preparation**
