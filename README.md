@@ -1,8 +1,6 @@
 # Introduction to Artificial Intelligence
 
-<details markdown="1"> 
-
-<summary><h2>  AI and Emerging Technologies  </h2></summary>
+<details markdown="1"><summary><h2>  AI and Emerging Technologies  </h2></summary>
 
 ## What are emerging technologies and how does AI play a role in ?
 
@@ -114,4 +112,87 @@ Reinforcement Learning algorithms learn by interacting with the environment and 
 
 These types of AI enhance the capabilities of IoT, making devices smarter, more efficient, and capable of providing personalized experiences.
 
+</details>
+
+# Machine Learning I
+
+<details markdown="2"><summary><h2>  Differents steps of Machine Learning </h2></summary>
+
+**1. Data Collection**
+
+- Gather the raw data required for your problem.
+
+- Data can come from databases, APIs, sensors, web scraping, or other sources.
+
+- Ensure the data is relevant, sufficient, and representative of the problem you're solving.
+
+**2. Data Preparation**
+- Clean and preprocess the data to make it suitable for modeling.
+
+- Tasks include:
+
+  - Handling missing values.
+
+  - Removing duplicates.
+
+  - Normalizing or scaling data.
+
+  - Encoding categorical variables.
+
+  - Splitting data into training, validation, and test sets.
+ 
+  - Visualing the data to look for patterns and outliners to validate the data 
+
+**3. Model Selection**
+- Choose an appropriate machine learning algorithm based on the problem type (classification, regression, clustering, etc.) and data characteristics.
+
+  Examples:
+
+  - Linear regression for regression tasks.
+
+  - Decision trees or random forests for structured data.
+
+  - Neural networks for complex patterns.
+
+  - Clustering algorithms like K-means for unsupervised tasks.
+**4. Model Training**
+- Train the selected model on the training dataset.
+  
+- Split the data into training and validation sets. Use the training set to train the model, adjusting its parameters to minimize the error.
+
+- The model learns patterns and relationships in the data.
+
+- Use techniques like cross-validation to ensure the model generalizes well.
+
+**5. Model Evaluation**
+- Evaluate the model's performance on the validation or test dataset.
+
+- Use appropriate metrics:
+
+  - Accuracy, precision, recall, F1-score for classification.
+
+  - Mean squared error (MSE), R-squared for regression.
+
+  - Silhouette score for clustering.
+
+- If performance is unsatisfactory, revisit earlier steps (e.g., feature engineering or model selection).
+
+**6. Model Tuning**
+
+- Model tuning in machine learning is a critical step to improve a model's performance by fine-tuning hyperparameters. Here are some key aspects of model tuning:
+  - **Hyperparameter Tuning:** The process of selecting the best combination of hyperparameters for a model.
+    
+  - **Cross-Validation:** Splitting the dataset into training and validation sets multiple times to evaluate the model's performance.
+    
+  - **Regularization:** Techniques to prevent overfitting by adding a penalty for larger model coefficients.
+    
+  - **Early Stopping:** A method to stop training when the model's performance on the validation set starts to deteriorate, preventing overfitting.
+    
+  - **Feature Selection:** Selecting the most relevant features to improve the model's performance and reduce overfitting.
+ 
+**7. Prediction**
+
+- Model prediction in machine learning involves using a trained model to make predictions on new, unseen data.
+  
+- These predictions can range from image recognition to semantics to predictive analytics.
 </details>
