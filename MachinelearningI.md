@@ -1,8 +1,3 @@
-# Machine Learning I
-
-<details markdown="2"><summary><h2>  Differents steps of Machine Learning </h2></summary>
-
-
 ## 7 Steps of Machine Learning 
 
 **1. Data Collection**
@@ -210,5 +205,3 @@ Machine learning (ML) applications are both in development and actively being us
 Some ML applications are still in the research or pilot phase, with companies and institutions actively working to refine and deploy them.
 While many applications are already transforming businesses and institutions, ongoing research and innovation continue to expand the possibilities of ML. As technology matures and challenges are addressed, the adoption of ML is expected to grow even further.
 
-  
-</details>
