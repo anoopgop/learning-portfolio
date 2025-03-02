@@ -118,6 +118,7 @@ These types of AI enhance the capabilities of IoT, making devices smarter, more 
 
 <details markdown="2"><summary><h2>  Differents steps of Machine Learning </h2></summary>
 
+{% include_relative MachinelearningI.md %}
 
 ## 7 Steps of Machine Learning 
 
