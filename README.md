@@ -2,6 +2,8 @@
 
 <details markdown="1"><summary><h2>  AI and Emerging Technologies  </h2></summary>
 
+{{% include_relative AIEmergingTech.md %}
+
 ## What are emerging technologies and how does AI play a role in ?
 
 Emerging technologies are those that are currently developing or will be developed over the next few years, and they hold the potential to substantially alter the way we live and work. Some examples of emerging technologies include:
