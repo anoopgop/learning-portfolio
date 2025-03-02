@@ -2,7 +2,7 @@
 
 <details markdown="1"><summary><h2>  AI and Emerging Technologies  </h2></summary>
 
-{{% include_relative AIEmergingTech.md %}
+{% include_relative AIEmergingTech.md %}
 
 ## What are emerging technologies and how does AI play a role in ?
 
