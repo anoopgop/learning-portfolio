@@ -9,6 +9,7 @@
 - Ensure the data is relevant, sufficient, and representative of the problem you're solving.
 
 **2. Data Preparation**
+
 - Clean and preprocess the data to make it suitable for modeling.
 
 - Tasks include:
@@ -26,6 +27,7 @@
   - Visualing the data to look for patterns and outliners to validate the data 
 
 **3. Model Selection**
+
 - Choose an appropriate machine learning algorithm based on the problem type (classification, regression, clustering, etc.) and data characteristics.
 
   Examples:
@@ -37,7 +39,9 @@
   - Neural networks for complex patterns.
 
   - Clustering algorithms like K-means for unsupervised tasks.
+    
 **4. Model Training**
+
 - Train the selected model on the training dataset.
   
 - Split the data into training and validation sets. Use the training set to train the model, adjusting its parameters to minimize the error.
@@ -47,6 +51,7 @@
 - Use techniques like cross-validation to ensure the model generalizes well.
 
 **5. Model Evaluation**
+
 - Evaluate the model's performance on the validation or test dataset.
 
 - Use appropriate metrics:
