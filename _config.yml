@@ -1,4 +1,6 @@
 title: Learning Portfolio
 logo: AI and Emerging Technologies.png
 theme: jekyll-theme-minimal
-markdown: CommonMarkGhPages
+markdown: kramdown
+kramdown:
+  parse_block_html: true
