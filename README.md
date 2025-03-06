@@ -12,7 +12,7 @@
 
 <details>
   
-<summary><h2>  Differents steps of Machine Learning </h2></summary>
+<summary><h2>  Different steps of Machine Learning </h2></summary>
 
 {% include_relative MachinelearningI.md %}
 
