@@ -57,6 +57,7 @@ This is a simple application that will help you identify the color of the sketch
 
 
 Below is the URL for the model that is generated using Teachable machines
+
 [Teachable Image Model](https://teachablemachine.withgoogle.com/models/U2GVT21w4/)
 
 
