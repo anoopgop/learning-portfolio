@@ -57,7 +57,7 @@ This is a simple application that will help you identify the color of the sketch
 
 **Green Sketchpen prediction by the model**
 
-<img src="https://github.com/user-attachments/assets/ba30da99-bd8e-455a-9e2a-19af9c5f457a" align="left" height="250" width="250">
+<img src="https://github.com/user-attachments/assets/ba30da99-bd8e-455a-9e2a-19af9c5f457a" align="left" height="480" width="250">
 
 ![image](https://github.com/user-attachments/assets/ba30da99-bd8e-455a-9e2a-19af9c5f457a)
 
