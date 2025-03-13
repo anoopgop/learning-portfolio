@@ -38,6 +38,30 @@ Teachable Machine is a web-based tool developed by Google that allows users to c
 
 - The exported model can be integrated into websites, apps, or other projects.
 
+#### What application did you choose to create using Teachable Machine?
+
+I am building a model which can differentiate between a green vs orange sketchpen using the image model functionality provided by teachable machines. For this I will take the image samples of both sketchpens and train the model so that it can differentiate the colors.
+
+
+#### What problem is it intended to solve?
+
+This image model is designed to make machine learning more accessible and user-friendly, particularly for individuals without extensive programming or technical expertise. It makes use of webcam to identify the color of the sketchpen to predict if it is green or orange. 
+
+#### Why did you choose to create this application?
+This is a simple application that will help you identify the color of the sketchpens and may be we might be able to add more colors to the model and train it so that can detect that various colors of sketchpens and that will help people in identifying the colors. This was very easy to build the model and train it using images captured from webcam.
+
+#### Provide the URL to your application or exported model created using Teachable Machine
+
+
+**Orange Sketchpen prediction by the model**
+![image](https://github.com/user-attachments/assets/62dd8f5b-b405-4be1-a74b-4e1eb40951bc)
+
+**Green Sketchpen prediction by the model**
+![image](https://github.com/user-attachments/assets/ba30da99-bd8e-455a-9e2a-19af9c5f457a)
+
+Below is the URL for the model that is generated using Teachable machines
+[Teachable Image Model](https://teachablemachine.withgoogle.com/models/U2GVT21w4/)
+
 
 
 
