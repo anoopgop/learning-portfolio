@@ -54,9 +54,13 @@ This is a simple application that will help you identify the color of the sketch
 
 
 **Orange Sketchpen prediction by the model**
+
 ![image](https://github.com/user-attachments/assets/62dd8f5b-b405-4be1-a74b-4e1eb40951bc)
 
 **Green Sketchpen prediction by the model**
+
+<a href="url"><img src="https://github.com/user-attachments/assets/ba30da99-bd8e-455a-9e2a-19af9c5f457a" align="left" height="48" width="48" ></a>
+
 ![image](https://github.com/user-attachments/assets/ba30da99-bd8e-455a-9e2a-19af9c5f457a)
 
 Below is the URL for the model that is generated using Teachable machines
