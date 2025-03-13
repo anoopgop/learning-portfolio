@@ -17,3 +17,13 @@
 {% include_relative MachinelearningI.md %}
 
 </details>
+
+# Machine Learning II
+
+<details>
+  
+<summary><h2>  Different steps of Machine Learning </h2></summary>
+
+{% include_relative MachinelearningII.md %}
+
+</details>
