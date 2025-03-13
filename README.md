@@ -24,6 +24,6 @@
   
 <summary><h2>  Machine Learning Model Using Teachable Machines</h2></summary>
 
-{% include_relative MachinelearningII.md %}
+{% include_relative MachineLearningII.md %}
 
 </details>
