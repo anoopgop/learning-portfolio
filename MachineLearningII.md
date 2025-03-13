@@ -1,5 +1,3 @@
-## Machine Learning - Model Research
-
 ### Describe how Teachable Machine uses machine learning to come up with solutions to an arbitrary problem.
 
 Teachable Machine is a web-based tool developed by Google that allows users to create machine learning models without needing to write code. It uses a process called transfer learning to make machine learning accessible and easy to use for a wide range of problems. Here’s how it applies machine learning to solve problems:
@@ -59,7 +57,7 @@ This is a simple application that will help you identify the color of the sketch
 
 **Green Sketchpen prediction by the model**
 
-<a href="url"><img src="https://github.com/user-attachments/assets/ba30da99-bd8e-455a-9e2a-19af9c5f457a" align="left" height="48" width="48" ></a>
+<img src="https://github.com/user-attachments/assets/ba30da99-bd8e-455a-9e2a-19af9c5f457a" align="left" height="250" width="250">
 
 ![image](https://github.com/user-attachments/assets/ba30da99-bd8e-455a-9e2a-19af9c5f457a)
 
