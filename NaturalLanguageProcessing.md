@@ -1,5 +1,3 @@
-### Natural Language Processing
-
 ####  Solving Problems with Microsoft Copilot
 
 **Steps Taken in Interacting with LLM Models**
