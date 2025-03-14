@@ -27,3 +27,13 @@
 {% include_relative MachineLearningII.md %}
 
 </details>
+
+# Natural Language Processing - LLM's
+
+<details>
+  
+<summary><h2>  Large Language Models using Microsoft Copilot </h2></summary>
+
+{% include_relative NaturalLanguageProcessing.md %}
+
+</details>
