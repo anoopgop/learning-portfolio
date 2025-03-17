@@ -1,12 +1,12 @@
 #### What was the motivating factor or factors during the game which resulted in the integration of a Machine Learning model to evaluate job candidates through automated resume review? 
 
-First, efficiency and scalability are key motivations. Companies often receive many job applications, which makes manual review slow and resource-heavy. The game shows the company's need for quick hiring leads to automation of the resume screening process. Second, reducing human bias is essential, as human recruiters may unknowingly favor candidates based on biases related to name, gender, or background. The game presents the ML model as a tool to make unbiased decisions.
+First, efficiency and scalability are key motivations. Companies often receive many job applications, which makes manual review slow and resource-heavy. The game shows the company's need for quick hiring, which leads to the automation of the resume screening process. Second, reducing human bias is essential, as human recruiters may unknowingly favor candidates based on biases related to name, gender, or background. The game presents the ML model as a tool to make unbiased decisions.
 
-ost savings are another motivation, as automation can cut the need for big recruitment teams. The ML model also allows for data-driven decisions based on measurable criteria. Companies adopt AI to maintain a competitive edge and handle complex evaluations in specialized job roles. However, the game critiques these motivations by revealing biases in training data, lack of transparency, and the risk of worsening inequality. It encourages players to critically assess the ethical implications of using AI in hiring.
+Cost savings are another motivation, as automation can cut the need for big recruitment teams. The ML model also allows for data-driven decisions based on measurable criteria. Companies adopt AI to maintain a competitive edge and handle complex evaluations in specialized job roles. However, the game critiques these motivations by revealing biases in training data, lack of transparency, and the risk of worsening inequality. It encourages players to critically assess the ethical implications of using AI in hiring.
 
 #### What “good” situations existed in the game? 
 
-The good situations existed on the game are below
+The good situations that existed in the game are below
 
 - Efficient Hiring Process: The model speeds up resume screening, helping companies hire faster.
 
