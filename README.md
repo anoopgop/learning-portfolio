@@ -37,3 +37,13 @@
 {% include_relative NaturalLanguageProcessing.md %}
 
 </details>
+
+# The AI Project Cycle and AI Ethics
+
+<details>
+  
+<summary><h2>   Survival Of The Best Fit Learning Game</h2></summary>
+
+{% include_relative  SurvivalOfTheBestFit.md %}
+
+</details>
